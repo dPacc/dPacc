@@ -1,4 +1,4 @@
-### Hi there 👋  thanks for dropping by!
+### Hi there 👋 thanks for dropping by!
 
 #### Languages
 
