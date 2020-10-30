@@ -1,5 +1,14 @@
 ### Hi there 👋 thanks for dropping by!
 
+<br />
+
+#### Connect with me
+
+[<img align="left" alt="deepak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="deepak | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+<br />
+
 #### Languages
 
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
@@ -37,3 +46,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[twitter]: https://twitter.com/mdkumaar
+[linkedin]: https://www.linkedin.com/in/mdkumar01/
