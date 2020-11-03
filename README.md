@@ -1,7 +1,5 @@
 ### Hi there 👋 thanks for dropping by!
 
-<br />
-
 #### Connect with me
 
 [<img align="left" alt="deepak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
