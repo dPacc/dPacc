@@ -1,5 +1,6 @@
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, thanks for dropping by.</h1>
+
+<p>Welcome to my Github profile! </br> I'm Deepak, an ML Engineer and Fullstack developer from <img src="https://www.flaticon.com/svg/static/icons/svg/321/321238.svg" width="13"/> <b>Bangalore, India</b>, currently living in <img src="https://www.flaticon.com/svg/static/icons/svg/321/321268.svg" width="13"/> <b>Abu Dhabi, UAE</b>. </p>
 
 #### Connect with me
 
