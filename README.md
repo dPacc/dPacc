@@ -1,4 +1,5 @@
-### Hi there 👋 thanks for dropping by!
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, thanks for dropping by.</h1>
 
 #### Connect with me
 
@@ -15,6 +16,7 @@
 #### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
+![GCP](https://img.shields.io/badge/-GCP-fff?&logo=Google-GCP&logoColor=232F3E)
 ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-fff?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
@@ -29,6 +31,7 @@
 #### My Stats
 
 <a href="www.mdkumar.info/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=dPacc&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  
 
 <!--
 **dPacc/dPacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
