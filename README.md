@@ -4,7 +4,7 @@
     <img width="43%" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"> 
 </p>
 
-<p>Welcome to my Github profile! </br> I'm Deepak, an ML Engineer and Fullstack Developer from <img src="https://www.flaticon.com/svg/static/icons/svg/321/321238.svg" width="13"/> <b>Bangalore, India</b>, currently living in <img src="https://www.flaticon.com/svg/static/icons/svg/321/321268.svg" width="13"/> <b>Abu Dhabi, UAE</b>. </p>
+<p>Welcome! </br> I'm Deepak, an ML Engineer and Fullstack Developer from <img src="https://www.flaticon.com/svg/static/icons/svg/321/321238.svg" width="13"/> <b>Bangalore, India</b>, currently living in <img src="https://www.flaticon.com/svg/static/icons/svg/321/321268.svg" width="13"/> <b>Abu Dhabi, UAE</b>. </p>
 
 #### Connect with me
 
