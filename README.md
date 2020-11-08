@@ -6,6 +6,8 @@
 
 <p>Welcome! </br> I'm Deepak, an ML Engineer and Fullstack Developer from <img src="https://www.flaticon.com/svg/static/icons/svg/321/321238.svg" width="13"/> <b>Bangalore, India</b>, currently living in <img src="https://www.flaticon.com/svg/static/icons/svg/321/321268.svg" width="13"/> <b>Abu Dhabi, UAE</b>. </p>
 
+Feel free to check out my blog <a href="https://www.tabnspace.com/" target="_blank">Tab N' Space</a>
+
 #### Connect with me
 
 [<img align="left" alt="deepak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
