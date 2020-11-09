@@ -6,7 +6,9 @@
 
 <p>Welcome! </br> I'm Deepak, an ML Engineer and Fullstack Developer from <img src="https://www.flaticon.com/svg/static/icons/svg/321/321238.svg" width="13"/> <b>Bangalore, India</b>, currently living in <img src="https://www.flaticon.com/svg/static/icons/svg/321/321268.svg" width="13"/> <b>Abu Dhabi, UAE</b>. </p>
 
-Feel free to check out my blog <a href="https://www.tabnspace.com/" target="_blank">Tab N' Space</a>
+Currently building <a href="https://www.conferbot.com/" target="_blank">@Conferbot</a>
+
+Feel free to check out my blog <a href="https://www.tabnspace.com/" target="_blank">@Tab N' Space</a>
 
 #### Connect with me
 
