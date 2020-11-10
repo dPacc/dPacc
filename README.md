@@ -37,9 +37,6 @@ Feel free to check out my blog <a href="https://www.tabnspace.com/" target="_bla
 ![Flask](https://img.shields.io/badge/-Flask-fff?&logo=flask)
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
 
-#### My Stats
-
-<a href="www.mdkumar.info/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=dPacc&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
  
 
 [twitter]: https://twitter.com/mdkumaar
