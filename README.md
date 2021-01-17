@@ -4,7 +4,10 @@
     <img width="43%" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"> 
 </p>
 
-<p>Welcome! </br> I'm Deepak, an ML Engineer from <b>Bangalore, India</b>, currently living in <b>Abu Dhabi, UAE</b>. </p>
+<p>Welcome! </p>
+</br> 
+
+<p>I'm Deepak, an ML Engineer from <b>Bangalore, India</b>, currently living in <b>Abu Dhabi, UAE</b> </p>
 
 Currently building <a href="https://www.conferbot.com/" target="_blank">@Conferbot</a>
 
