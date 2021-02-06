@@ -5,7 +5,6 @@
 </p>
 
 <p>Welcome! </p>
-</br> 
 
 <p>I'm Deepak, an ML Engineer from <b>Bangalore, India</b>, currently living in <b>Abu Dhabi, UAE</b> </p>
 
