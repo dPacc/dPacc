@@ -8,9 +8,9 @@
 
 <p>I'm Deepak, an ML Engineer from <b>Bangalore, India</b>, currently living in <b>Abu Dhabi, UAE</b> </p>
 
-Currently building <a href="https://www.conferbot.com/" target="_blank">@Conferbot</a>
+Currently building <a href="https://www.conferbot.com/" target="_blank">@Conferbot</a> & <a href="https://www.mumetric.com/" target="_blank">@MuMetric</a>
 
-Feel free to check out my blog <a href="https://www.tabnspace.com/" target="_blank">@Tab N' Space</a>
+If you're a developer feel free to check out an amazing community at <a href="https://www.tabnspace.com/" target="_blank">@Tab N' Space</a>
 
 #### Connect with me
 
