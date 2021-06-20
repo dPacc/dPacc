@@ -6,7 +6,7 @@
 
 <p>Welcome! </p>
 
-<p>I'm Deepak, an ML Engineer from <b>Bangalore, India</b>, currently living in <b>Abu Dhabi, UAE</b> </p>
+<p>I'm Deepak, a Machine Learning Architect and a Full Stack Developer</p>
 
 Currently building <a href="https://www.conferbot.com/" target="_blank">@Conferbot</a> & <a href="https://www.mumetric.com/" target="_blank">@MuMetric</a>
 
