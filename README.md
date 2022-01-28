@@ -8,9 +8,7 @@
 
 <p>I'm Deepak, a Machine Learning Architect and a Full Stack Developer</p>
 
-Currently building <a href="https://www.conferbot.com/" target="_blank">@Conferbot</a> & <a href="https://www.mumetric.com/" target="_blank">@MuMetric</a>
-
-If you're a developer feel free to check out an amazing community at <a href="https://www.tabnspace.com/" target="_blank">@Tab N' Space</a>
+Building world-class software products <a href="https://www.netraga.com/" target="_blank">@Netraga</a>
 
 #### Connect with me
 
