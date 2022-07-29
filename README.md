@@ -6,7 +6,7 @@
 
 <p>Welcome! </p>
 
-<p>I'm Deepak, a Machine Learning Architect and a Full Stack Developer</p>
+<p>I'm Deepak, a Machine Learning Architect and a Full Stack Engineer</p>
 
 Building world-class software products <a href="https://www.netraga.com/" target="_blank">@Netraga</a>
 
