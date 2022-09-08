@@ -39,5 +39,5 @@ Building world-class software products <a href="https://www.netraga.com/" target
 
  
 
-[twitter]: https://twitter.com/mdkumaar
+[twitter]: https://twitter.com/dpacmuni
 [linkedin]: https://www.linkedin.com/in/mdkumar01/
