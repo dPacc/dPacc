@@ -8,8 +8,6 @@
 
 <p>I'm Deepak, a Machine Learning Architect and a Full Stack Engineer</p>
 
-Building world-class software products <a href="https://www.netraga.com/" target="_blank">@Netraga</a>
-
 #### Connect with me
 
 [<img align="left" alt="deepak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
