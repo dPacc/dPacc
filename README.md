@@ -4,11 +4,6 @@
 
 <p>I'm Deepak, a Machine Learning Architect and a Full Stack Engineer</p>
 
-#### Connect with me
-
-[<img align="left" alt="deepak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="deepak | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
 </br>
 
 #### Languages
@@ -31,7 +26,3 @@
 ![Flask](https://img.shields.io/badge/-Flask-fff?&logo=flask)
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
 
- 
-
-[twitter]: https://twitter.com/dpacmuni
-[linkedin]: https://www.linkedin.com/in/mdkumar01/
